@@ -1,4 +1,4 @@
-Greetings, I’m Justus Henseler! I’m passionate about quantitative finance and data science. My main interests are time series forecasting and the macro-finance interface.
+Greetings, I’m Justus Henseler! I’m passionate about quantitative finance and data science, my main interests lie in time series forecasting and the macro-finance interface.
 
 **Expertise & Interests**
 - Quantitative Finance: Factor models, GARCH processes, yield curve forecasting, portfolio optimization.
