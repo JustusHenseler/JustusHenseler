@@ -1,5 +1,5 @@
 Greetings, I’m Justus Henseler! 
-I’m passionate about quantitative finance and data science, my main interests lie in time series forecasting and the macro-finance interface.
+I’m passionate about quantitative finance and data science, with a particular focus on time series forecasting and the macro-finance interface. 
 On this GitHub profile, I will continuously upload and maintain coding projects as part of my personal and professional development.
 
 **Expertise & Interests**
