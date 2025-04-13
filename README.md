@@ -10,4 +10,4 @@ On this GitHub profile, I will continuously upload and maintain coding projects 
 - Yield Curve forecasting, factor models and diffusion indexes
 - Functional Data Analysis
 
-I recently graduated with a M.Sc. in Economics from the University of Cologne with a strong focus on statistics & econometrics.  Currently I'm enrolled in an undergraduate Mathematics program to prepare for a PhD in Quantitative Finance. I’m also currently working as a Data Science Intern at Capetec GmbH.
+I recently graduated with a M.Sc. in Economics from the University of Cologne with a strong focus on statistics & econometrics. I’m currently working as a Data Science Intern at Capetec GmbH.
